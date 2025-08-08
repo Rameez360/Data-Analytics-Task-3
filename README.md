@@ -4,6 +4,7 @@ Interactive Dashboard Using Power BI
 Superstore Sales Dashboard – Power BI Project
 
 This project presents an interactive dashboard built using Power BI for analyzing sales data from superstore.
+
 ---
 
 ## Dataset
@@ -24,6 +25,7 @@ To build an interactive, data-driven Power BI dashboard to support business deci
   - Removed nulls and duplicates
   - Optimized column data types
 ---
+
 ## Features
 
 - **Key KPIs** as cards:
@@ -46,6 +48,7 @@ To build an interactive, data-driven Power BI dashboard to support business deci
   - Segment-based customer insights
   - Shipping mode and payment preference comparisons
 ---
+
 ## Key Insights
 
 - **Office Supplies** led in sales; **Technology** was most profitable.
